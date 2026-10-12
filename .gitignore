@@ -1,0 +1,25 @@
+# Swift build output and local IDE state
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local application bundles, release archives, and source backups
+dist/
+releases/
+backups/
+*.app/
+*.zip
+
+# Machine-specific files and local data
+.DS_Store
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.store
+*.store-shm
+*.store-wal

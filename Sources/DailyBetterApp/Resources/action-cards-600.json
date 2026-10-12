@@ -1,0 +1,4219 @@
+{
+  "name": "日进 · 第一批行动签",
+  "version": "0.1",
+  "date": "2026-09-22",
+  "status": "candidate",
+  "counts": {
+    "生活": 200,
+    "工作": 200,
+    "学习": 200
+  },
+  "notes": [
+    "候选内容，不是已经验证有效的个人经验。",
+    "保留固定 ID 供收藏、跳过、采纳和去重关联。",
+    "topic 是签库主题，不自动映射到用户的事项或经验分组。",
+    "本文件不包含已实现的抽签逻辑，也没有修改 PRD。"
+  ],
+  "cards": [
+    {
+      "id": "LIFE-001",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "今晚把明早要带的东西放在同一个位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-002",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次出门前，摸一下钥匙是否已经放进包里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-003",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次换包时，把旧包每个口袋翻看一次。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-004",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "出门前看一眼目的地的天气，再决定是否带伞。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-005",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次准备乘车时，提前打开需要出示的乘车码。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-006",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次要带东西给别人时，先把它放到出门会经过的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-007",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "今晚给明天要穿的衣服腾出一个固定位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-008",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次抵达陌生地点后，记下返程入口在哪里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-009",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次开车停好后，拍一张停车区域编号。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-010",
+      "category": "生活",
+      "topic": "出门准备",
+      "action": "下次结束外出时，先把随身钥匙放回固定位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-011",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "现在把桌面上不属于这里的一件东西放回原处。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-012",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "把桌面最常用的一件物品移到伸手可及的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-013",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "选一根挡手的线，沿桌边重新摆放。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-014",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "把桌面上的散纸收拢成一叠。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-015",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "给正在使用的本子留出一块完整的书写位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-016",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "清理键盘旁边的一小块积灰。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-017",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "把一个空杯子从桌面拿走。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-018",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "把暂时不用的充电线从桌面收起来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-019",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "检查桌面一件坏掉的物品，决定修理还是移入待处理区。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-020",
+      "category": "生活",
+      "topic": "桌面整理",
+      "action": "给每天要用的笔确定一个固定放置点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-021",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "下次换下衣服时，直接分到待洗或可再穿的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-022",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "把一双分散的袜子配成一对。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-023",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "翻看一件很少穿的衣服，写下少穿它的原因。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-024",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "给明天要穿的上衣找好一件搭配的下装。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-025",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "下次洗衣前，看一次不熟悉衣物的洗护标签。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-026",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "检查一件常穿衣服的口袋里是否有遗留物。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-027",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "把一件容易滑落的衣服重新挂稳。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-028",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "下次收衣服时，先把同一个人的衣物放在一起。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-029",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "给需要修补的一件衣服做一个待处理标记。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-030",
+      "category": "生活",
+      "topic": "衣物管理",
+      "action": "把一件过季衣物从最常取用的位置移开。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-031",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "下次做饭前，把要用的器具先摆到操作区。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-032",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "把一种常用调味料放到不用跨过灶台就能拿到的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-033",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "清空厨房里一块够放砧板的操作空间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-034",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "下次拿出食材时，先放好一个装厨余的小容器。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-035",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "把一个经常找不到的锅盖放到对应锅旁边。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-036",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "检查一个食品容器的盖子是否配得上。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-037",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "下次煮东西时，按需要设置一个计时提醒。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-038",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "把清洁用品与食物分开放置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-039",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "下次做完饭，先把暂时不用的调味料归位。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-040",
+      "category": "生活",
+      "topic": "厨房动线",
+      "action": "为一件常用厨房工具确定一个用后归位点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-041",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "今晚先想好明早吃什么，写成一句话。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-042",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "明早开始准备早餐前，先看自己有多少可用时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-043",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "把家里现有食材能做的一种早餐记下来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-044",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "下次准备早餐时，试着少用一件器具。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-045",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "给一种常吃的早餐记下从准备到收尾的大致用时。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-046",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "今晚只提前摆好明早要用的餐具。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-047",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "下次尝试新早餐时，先做一份再决定是否重复。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-048",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "给早上来不及做饭的情况写一个现有条件下的备用方案。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-049",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "下次早餐结束后，记下一步最费时间的操作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-050",
+      "category": "生活",
+      "topic": "早餐与备餐",
+      "action": "把一种需要提前处理的食材，其保存要求查清楚再安排。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-051",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "买菜前先看一眼冰箱里已经有什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-052",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "把一件临近保质期的食品移到容易看见的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-053",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "下次拆开需标注开封日期的食品时，按标签要求记下日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-054",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "把一份看不清名称的冷冻食物补上名称标签。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-055",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "下次用完一种常用食材，立即记到补货清单。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-056",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "检查一件食品的储存条件是否与当前放置方式一致。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-057",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "挑出两种已有食材，想一道能一起使用的菜。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-058",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "下次收纳采购物品前，先给旧库存留在前面。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-059",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "把冰箱里同一餐准备使用的食材放在相邻位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-060",
+      "category": "生活",
+      "topic": "食材与余量",
+      "action": "把一次买多的食材记下来，供下次采购时参考。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-061",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "下次购物前，先写下本次确实要买的三样东西。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-062",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "看到想买的非必需品时，先存进愿望清单。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-063",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "购买替换品前，确认家里旧物的尺寸或型号。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-064",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "下次比较两件商品时，先选一个你最在意的标准。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-065",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "下次买常用品时，核对一次每单位的价格。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-066",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "结账前检查购物车里是否有重复加入的物品。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-067",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "下次被组合装吸引时，先想好多出的部分放在哪里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-068",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "购买收纳物品前，先量一下要放它的空间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-069",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "下次买礼物前，记下对方一个明确表达过的偏好。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-070",
+      "category": "生活",
+      "topic": "采购选择",
+      "action": "给一件近期买得不合适的东西写一句原因。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-071",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "给进门后的包腾出一个固定位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-072",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "把一双挡住通道的鞋移回鞋架。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-073",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "清点随身包里一件长期没用的东西。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-074",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "给常带的耳机确定一个单独口袋。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-075",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "把容易散落的小票集中到一个袋子里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-076",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "下次回家后，把伞放到适合晾干的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-077",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "检查随身水杯的盖子是否扣好。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-078",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "把常用证件放回你能明确说出的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-079",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "下次整理包时，先取出里面的空包装。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-080",
+      "category": "生活",
+      "topic": "门口与随身物品",
+      "action": "在门口放一张纸，记下下次出门必须带的一件东西。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-081",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "把一件拖着没做的家务缩成一个两分钟能开始的步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-082",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "今天只清理一个抽屉的最上层。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-083",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "把清洁某个区域需要的工具先集中起来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-084",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "下次倒垃圾时，顺手检查垃圾袋是否需要补充。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-085",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "把一项需要家人配合的家务写成清楚的分工提议。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-086",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "挑一个经常遗漏的清洁角落，拍下来作为提醒。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-087",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "给正在打扫的区域设一个明确结束点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-088",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "下次收拾时，只处理眼前这一类物品。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-089",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "完成一次家务后，把工具放回下次好取的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-090",
+      "category": "生活",
+      "topic": "家务拆分",
+      "action": "记下一件反复弄乱的地方，想一个减少乱源的小调整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-091",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "给一件全家经常寻找的东西确定一个共同放置点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-092",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "在一个不透明收纳盒外标注里面装的是什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-093",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "把一份重要纸质文件归到一个明确的文件夹。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-094",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "为一件借出的物品记下借给谁和日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-095",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "把一件借来的东西放进待归还的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-096",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "给一把容易混淆的钥匙做一个不暴露地址的标记。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-097",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "拍下一个难以看清的设备型号，存到容易找的地方。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-098",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "把一件常用物品的说明书与购买记录关联保存。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-099",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "检查家里一盏需要更换的灯，把型号记到清单里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-100",
+      "category": "生活",
+      "topic": "居家物品定位",
+      "action": "把一件不知道属于谁的物品拍照，留待向家人确认。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-101",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "把手机首页一个很少使用的图标移到下一屏。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-102",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "关闭一个你确认不需要的应用通知。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-103",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "把一个常用工具移到手机更顺手的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-104",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "检查一张已经失效的截图，确认后单独删除。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-105",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "给一张以后还要找的照片加上收藏标记。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-106",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "把一条容易忘记的信息存到统一的备忘录入口。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-107",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "查看一次手机剩余存储空间，记下占用最大的类别。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-108",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "下次准备解锁手机前，先说清楚自己要做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-109",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "把一个常用联系人的备注补充清楚。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-110",
+      "category": "生活",
+      "topic": "手机整理",
+      "action": "今天找一次手机的免打扰入口，熟悉如何开启和关闭。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-111",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "给一个名称模糊的个人文件改成能看懂的名字。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-112",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "把一份重要资料再保存到你已有的另一处可靠位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-113",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "检查一个常用书签是否还能打开。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-114",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "给一张需要保存的票据照片补上用途说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-115",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "把散落在聊天里的一个重要地址存到地址记录中。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-116",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "为一份长期要用的资料建立明确的归档位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-117",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "检查一个重复文件，确认内容后只处理其中一份。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-118",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "把一条收藏很久的内容打开，决定保留还是取消收藏。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-119",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "给一个个人文件夹写一句它用来放什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-120",
+      "category": "生活",
+      "topic": "数字资料",
+      "action": "尝试用搜索找到一份旧资料，记下最有效的关键词。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-121",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "今晚只确定明天最想完成的一件个人事务。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-122",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "把一件模糊的安排改写成可执行的下一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-123",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "下次约时间时，直接提出一个具体时间段。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-124",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "给一次外出安排补上实际路程时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-125",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "检查明天是否有需要提前准备材料的预约。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-126",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "把一件一直靠记忆提醒的事放入现有提醒工具。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-127",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "下一次排满日程前，留出一段机动时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-128",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "把一项已经不打算做的安排从当前清单中移出。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-129",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "出发前确认一次预约地点的完整地址。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-130",
+      "category": "生活",
+      "topic": "日程安排",
+      "action": "结束今天前，写下明天开始时可以直接做的一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-131",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "下次提出请求时，说清楚希望对方具体做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-132",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "给一位帮助过你的人写一句具体的感谢，是否发送由你决定。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-133",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "下次讨论安排时，先确认双方说的是同一天。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-134",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "听到不明白的话时，先问一句“你指的是哪一部分”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-135",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "下次转述别人观点前，用一句话向对方确认理解。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-136",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "准备拒绝一件事时，先写清自己能做到的范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-137",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "下次家人提出需求时，问一句“你希望我听你说，还是一起想办法”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-138",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "把一件希望共同改善的小事，改成不带指责的具体描述。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-139",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "结束一次约定前，复述一下各自下一步做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-140",
+      "category": "生活",
+      "topic": "日常沟通",
+      "action": "下次表达偏好时，用“我更希望……”说出一个明确选择。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-141",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "结束一段忙碌后，先把手里的东西放下再开始下一件事。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-142",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "在下一次休息时，试着不同时打开新的信息流。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-143",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "找一首熟悉的音乐，只听完这一首再决定做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-144",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "给今天留一段不安排产出的短暂空档。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-145",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "准备继续刷内容时，先看一眼已经过去多久。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-146",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "选一个舒服的位置，安静坐一会儿，留意此刻的感受。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-147",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "下次休息前，写下回来后从哪里继续。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-148",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "把一个休息时仍会干扰你的非必要提醒暂时静音。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-149",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "今天试着在吃一口喜欢的食物时不同时看屏幕。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-150",
+      "category": "生活",
+      "topic": "休息切换",
+      "action": "结束休息时，先选一个容易开始的小动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-151",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "今晚睡前把仍挂在心里的一件事写下来，留到明天处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-152",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "给明早第一件事准备好需要的物品。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-153",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "今晚选一个明确的时点，结束一项非必要事务。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-154",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "睡前检查一次是否还有不需要亮着的灯。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-155",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "把床边影响取放东西的一件杂物移开。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-156",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "为夜里可能要拿的物品留出清楚的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-157",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "今晚把未完成事项的下一步写清，不继续扩写整个计划。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-158",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "结束娱乐前，先确定停在哪一集或哪一页。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-159",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "记下今晚是什么事情让收尾比预期更晚。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-160",
+      "category": "生活",
+      "topic": "晚间收尾",
+      "action": "查看一个夜间会自动亮起的设备，找到它的亮屏设置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-161",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "身体条件允许时，休息时在室内走一小圈。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-162",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "下次久坐后，按自己舒服的方式换一个姿势。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-163",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "今天挑一段熟悉且安全的路，留意沿途三个细节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-164",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "身体条件允许时，把一件轻便物品亲自送回原位。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-165",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "下次等水烧开时，试着离开屏幕站一会儿。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-166",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "给一项喜欢的活动准备好入口，例如把散步用的鞋放好。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-167",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "今天回想一次让身体感觉舒服的活动，把它记下来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-168",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "选择一段适合自己的短活动，在明显疲劳前结束。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-169",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "下次安排出行时，看看是否有适合自己的短步行路段。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-170",
+      "category": "生活",
+      "topic": "轻量活动",
+      "action": "活动结束后，记一句此刻的身体感受，不给自己打分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-171",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "拿出一件闲置的兴趣用品，先用它做一个最小动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-172",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "听一首不熟悉的歌曲，记下最喜欢的一个片段。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-173",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "拍一张日常环境里平时没注意过的细节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-174",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "翻开一本闲置的书，挑一页随意读完。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-175",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "用手边的纸画出今天看到的一个简单轮廓。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-176",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "给一种想尝试的兴趣写下无需购买东西的起步方式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-177",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "重看一段喜欢的作品，留意以前没注意过的一处处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-178",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "给一项兴趣留一个短时间段，不要求完成作品。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-179",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "把一次有趣的体验记成一句以后能想起来的话。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-180",
+      "category": "生活",
+      "topic": "兴趣与体验",
+      "action": "挑一张旧照片，写下照片之外你还记得的一个细节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-181",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "为今天的一笔非固定支出记下购买原因。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-182",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "查看一项订阅的下次续费日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-183",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "为一件待退换物品记录退换期限。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-184",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "把一张需要报销或留存的收据放到明确位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-185",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "下次决定买替代品前，先试一次已有物品能否满足需要。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-186",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "回看一件最近常用的购买，记下它解决了什么问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-187",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "对一件冲动想买的东西，写下不买时会遇到的实际困难。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-188",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "检查一次购物订单的规格是否与需求一致。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-189",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "为一次多人共同消费记下待核对的金额与对象。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-190",
+      "category": "生活",
+      "topic": "消费记录",
+      "action": "把一项尚未决定的购买和必需采购分开放在清单里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-191",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "记录今天让你省事的一处小安排。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-192",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "记下今天反复找过的一件东西。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-193",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "回想一次临时手忙脚乱，写出最早可以准备的环节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-194",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "记录一个对你无效的小技巧，并注明当时的情境。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-195",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "给一个已有好习惯写下它通常在什么场景发生。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-196",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "回看本周一条生活记录，补上现在知道的结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-197",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "选一件常做的小事，写下其中最麻烦的一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-198",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "把一句“下次注意”改成一个具体动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-199",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "为一个刚试过的小改变写一句是否愿意再用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LIFE-200",
+      "category": "生活",
+      "topic": "生活观察",
+      "action": "从今天的经历里挑一个值得保留的做法，先记成候选经验。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-001",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "开始工作前，写下今天最重要的一项交付物。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-002",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "把一个准备开始的任务改写成具体动词开头的一句话。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-003",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "打开任务所需的文件后，先完成其中最小的一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-004",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "开始一项任务前，写下做到什么程度就可以交付。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-005",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "下次结束工作时，在文件顶部留下继续处理的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-006",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "暂时切换任务前，写下当前卡点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-007",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "把今天一个临时请求放进统一收集处，不只留在记忆里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-008",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "开始明天的工作前，确认第一项任务是否仍然优先。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-009",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "完成一项交付后，把最终版本放到明确位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-010",
+      "category": "工作",
+      "topic": "开始与收尾",
+      "action": "今天收尾时，给一项未完成工作写下一步动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-011",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "把一个超过半天的任务拆出第一个可交付的小结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-012",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "为一项工作列出完成前必须得到的一份输入。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-013",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "给一项模糊任务写一句具体的完成标准。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-014",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "把任务清单里的一条名词改成可执行的动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-015",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "找出当前任务中可以先验证的一个关键假设。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-016",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "把一个等待别人的步骤单独列出来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-017",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "在开始复杂任务前，画出三步以内的处理顺序。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-018",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "选一项反复拖延的工作，先写清不知道怎么做的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-019",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "把一个很大的交付物缩成可供讨论的初稿范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-020",
+      "category": "工作",
+      "topic": "任务拆解",
+      "action": "为一项任务标出本次明确不处理的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-021",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "面对两个任务时，写下各自延迟一天会影响什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-022",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "给今天的工作清单标出唯一的一项首要任务。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-023",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "接到新增需求时，先指出它会挤占哪项已有安排。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-024",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "开始润色前，检查核心内容是否已经完整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-025",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "给一项低价值的重复工作记录实际花费时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-026",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "为当前任务划出“必须有”和“可以后补”两部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-027",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "下次准备加功能或内容时，写明它解决哪个具体问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-028",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "检查一项工作是否仍服务于最初目标。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-029",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "遇到紧急请求时，先确认真实截止时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-030",
+      "category": "工作",
+      "topic": "优先级与范围",
+      "action": "把一项没有明确用途的工作标为待确认，而不是继续扩写。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-031",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "处理下一项任务时，先关闭一个无关窗口。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-032",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "给接下来的工作选一个明确结束点，再开始。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-033",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "需要查资料时，先写下要查的唯一问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-034",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "被打断后，先读上次留下的接续记录再动手。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-035",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "把工作中冒出的一个无关想法记到旁边，继续当前步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-036",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "下一次同时打开多个文件前，先选定主文件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-037",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "开始需要专注的工作时，把非必要提醒暂时静音。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-038",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "检查一次频繁切换窗口的原因，记下缺少哪份信息。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-039",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "给一项短工作设一个时间盒，到点先检查进展。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-040",
+      "category": "工作",
+      "topic": "专注与切换",
+      "action": "下一次暂停前，保存文件并留下当前版本说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-041",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "接到需求后，用一句话复述你理解的目标。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-042",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "为一项新需求问清最终是谁使用成果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-043",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "开始制作前，确认对方需要的文件或交付格式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-044",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "把一句抽象要求改成一个具体示例，请对方核对。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-045",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "确认一次需求的截止时间是否包含评审和修改。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-046",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "把你对需求做出的一个假设明确写出来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-047",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "对“尽快”这样的时间要求，补问具体日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-048",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "请需求方提供一个接近预期的参考样例。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-049",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "把一项需求中尚不明确的问题列为待确认项。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-050",
+      "category": "工作",
+      "topic": "接收需求",
+      "action": "开始执行前，确认本次谁负责最终验收。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-051",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "发送工作消息前，把需要对方采取的动作放在前面。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-052",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "把一段过长的工作消息拆成三个清楚的要点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-053",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "下次请人协助时，补充相关文件的准确链接。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-054",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "在工作请求中注明希望何时得到回复。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-055",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "把消息里的“这个”“那个”替换为明确名称。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-056",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "发送结论前，区分已确认事实和个人推测。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-057",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "对一个需要选择的问题，写出两个可比较的选项。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-058",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "回复复杂问题时，先回答对方最直接的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-059",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "把一条口头确定的重要约定整理成文字供确认。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-060",
+      "category": "工作",
+      "topic": "书面沟通",
+      "action": "发送文件时，用一句话说明对方重点看哪里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-061",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "参加会议前，写下自己希望解决的一个问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-062",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "组织会议前，给每个议题写一个预期结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-063",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "检查一次会议邀请是否包含必要资料。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-064",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "为需要决策的议题准备两个明确方案。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-065",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "会前标出一项可以异步确认、不必占用会议时间的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-066",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "给自己负责的议题准备一句开场说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-067",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "需要汇报时，先整理最关键的一个数字及其口径。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-068",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "参加讨论前，写下自己已经知道和仍不知道的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-069",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "检查一次参会人员是否包含必须做决定的人。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-070",
+      "category": "工作",
+      "topic": "会议准备",
+      "action": "会前确认一次演示文件能否正常打开。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-071",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "会议开始时，用一句话确认本次要解决的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-072",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "讨论偏离时，记下新议题并提议稍后单独处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-073",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "听到一个行动项时，补记负责人。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-074",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "形成结论后，复述一句供参会者核对。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-075",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "会议结束前，确认最近的一个下一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-076",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "为一个待解决问题记下再次检查的日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-077",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "整理纪要时，把决定和讨论过程分开。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-078",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "会后检查一项行动是否有明确截止时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-079",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "跟进会议事项时，引用上次确认的具体约定。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-080",
+      "category": "工作",
+      "topic": "会议执行与跟进",
+      "action": "回看一次会议，记下一段可以提前书面准备的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-081",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "制作下一份汇报前，写出希望听众做出的决定。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-082",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "先列出每页的一句话标题，再选择版式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-083",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "把一个目录式标题改成清楚的结论句。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-084",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "检查一页是否同时回答了两个不同问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-085",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "把一段与汇报主线关系不大的背景移入附录草稿。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-086",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "为一份汇报写出“结论、依据、行动”三行提纲。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-087",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "只读一遍页面标题，检查主线是否连贯。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-088",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "在结束页补上一个明确的下一步建议。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-089",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "为一个重要结论补写它需要哪类证据支持。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-090",
+      "category": "工作",
+      "topic": "PPT观点与结构",
+      "action": "制作第一页前，写下听众已知和未知的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-091",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "给一个数字补上时间范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-092",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "给一张对比图补上比较基准。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-093",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "把一段页面文字压成一句主结论和两条依据。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-094",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "为一个术语加上一句听众能理解的解释。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-095",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "检查两个方案是否使用了相同的评价维度。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-096",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "用一句话写出一张图表想说明的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-097",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "把一处模糊形容词替换成已有的具体事实。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-098",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "给一项数据补上可追溯的来源说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-099",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "把一页中重复表达同一意思的两句话合并。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-100",
+      "category": "工作",
+      "topic": "PPT内容表达",
+      "action": "为一个抽象观点补一个贴近本次场景的例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-101",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "选一页，先统一主要元素的左对齐线。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-102",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "把同类信息页改用同一种版式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-103",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "检查一页上的强调色是否各有明确含义。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-104",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "用实际展示大小看一次页面文字是否易读。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-105",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "给一个图表的系列名称改成听众能看懂的词。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-106",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "试讲一遍相邻两页之间的过渡。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-107",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "交付前检查一次演示文件中的链接。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-108",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "检查一页中的单位、小数位和百分号是否一致。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-109",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "按实际播放顺序完整浏览一次演示文稿。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-110",
+      "category": "工作",
+      "topic": "PPT页面与交付",
+      "action": "导出后抽查一页，确认字体和布局没有变化。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-111",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "开始写文档前，写清读者读完后需要做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-112",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "给一份文档先列出三级以内的提纲。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-113",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "把一段背景说明移到结论之后，比较阅读是否更顺畅。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-114",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "为一个长段落加上能概括内容的小标题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-115",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "检查一份文档中同一概念是否用了不同名称。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-116",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "给一个关键判断补上依据或标为待验证。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-117",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "把一条要求改写成可检查的验收条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-118",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "为一份长文档加上简短的内容导航。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-119",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "删改前复制保留原文，再试着压缩一个重复段落。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-120",
+      "category": "工作",
+      "topic": "文档写作",
+      "action": "请一位合适的同事只看开头，确认能否理解文档目的。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-121",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "使用一组数据前，检查时间范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-122",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "核对一次表格中的单位是否一致。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-123",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "随机挑一条汇总数据，追溯到原始记录。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-124",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "为一个计算结果写出使用的公式或规则。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-125",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "检查一次百分比的分母是什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-126",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "把缺失值和真正的零分开标记。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-127",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "给一列含义不清的字段补上定义。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-128",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "做对比前，确认两组数据统计口径一致。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-129",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "给一份数据文件注明更新日期。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-130",
+      "category": "工作",
+      "topic": "数据与核对",
+      "action": "发现异常数字时，先记录异常位置再解释原因。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-131",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "给正在编辑的工作文件加上清楚的主题名称。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-132",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "把一份最终交付文件与过程草稿分开放置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-133",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "在文件交接前，确认链接指向的是最新版本。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-134",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "给一个临时文件夹写下用途，避免以后猜测。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-135",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "为一次重要修改写一句版本说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-136",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "检查共享文件是否有不必要的访问权限。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-137",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "把散落在不同位置的一项工作资料整理成链接清单。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-138",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "给一份经常复用的文件标明模板身份。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-139",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "在发送附件前，打开它确认不是空白或错误版本。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-140",
+      "category": "工作",
+      "topic": "文件与版本",
+      "action": "把一个重要文件的保存位置写进交接说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-141",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "交接任务时，写清当前已完成的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-142",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "把一项交接中尚未解决的问题单独列出。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-143",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "为接手人注明首先应该打开的文件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-144",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "交接前确认对方是否拥有所需访问权限。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-145",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "把一项依赖他人的工作写明等待什么输入。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-146",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "请求评审时，明确希望对方看内容还是形式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-147",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "把一条反馈定位到具体页面、段落或位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-148",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "收到修改意见后，用一句话确认准备怎么改。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-149",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "标明一项协作任务的唯一对接人。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-150",
+      "category": "工作",
+      "topic": "协作交接",
+      "action": "完成交接后，询问对方是否还缺一项关键信息。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-151",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "沟通前写下本次最想了解的一个问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-152",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "把一个带有预设答案的问题改成开放式提问。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-153",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "请对方描述最近一次真实发生的场景。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-154",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "听到“经常”时，追问一个具体例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-155",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "把客户原话与自己的解释分开记录。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-156",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "遇到不明确的需求时，追问它影响了哪项工作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-157",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "讨论方案前，先复述对方的问题供确认。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-158",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "为一次访谈记录发生时间和背景。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-159",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "不要急着介绍方案，先问对方目前怎么处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-160",
+      "category": "工作",
+      "topic": "客户与访谈",
+      "action": "沟通结束时，确认双方对下一步的理解。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-161",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "做选择前，写出本次最重要的判断标准。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-162",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "为一个偏好的方案写下一条可能不成立的理由。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-163",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "把一项决定分成已知事实和待验证假设。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-164",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "问自己一次：什么新信息会改变这个决定？",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-165",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "给一个方案写下最直接的代价。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-166",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "把两个选项放到同一张比较清单上。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-167",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "决定推进前，找一个可以小范围验证的步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-168",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "记录一次决定时当时掌握的信息。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-169",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "为一个可逆决定设定回看时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-170",
+      "category": "工作",
+      "topic": "决策与判断",
+      "action": "检查自己是否把已经投入的成本当成继续投入的唯一理由。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-171",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "交付前按接收者的顺序走一遍使用流程。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-172",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "挑一条最重要要求，核对成果是否满足。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-173",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "给一个容易漏掉的步骤加到检查清单。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-174",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "检查一次成果中的姓名、日期和版本号。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-175",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "为一项常见错误写一个可复用的检查问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-176",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "拿一个边界情况试用当前成果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-177",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "记录一次缺陷的复现步骤，而不只写“有问题”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-178",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "修正后重新检查原先出错的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-179",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "把尚未完成的部分在交付说明中明确列出。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-180",
+      "category": "工作",
+      "topic": "检查与质量",
+      "action": "检查一次复制粘贴的内容是否残留旧项目名称。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-181",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "完成一项工作后，记下最费时间的一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-182",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "为一次返工写清触发原因。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-183",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "记录今天一个比以前顺畅的做法。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-184",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "回看一条旧工作经验，确认是否仍然适用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-185",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "把“下次早点沟通”改成具体在哪一步沟通。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-186",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "选一次没达到预期的工作，写下最早出现的信号。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-187",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "把一项成功经验补上它适用的条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-188",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "为一个反复遇到的问题提出一次小范围调整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-189",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "找出一次协作中值得保留的明确约定。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-190",
+      "category": "工作",
+      "topic": "工作复盘",
+      "action": "把一条已经过时的工作经验标为待重新验证。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-191",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "把一封写得清楚的工作消息整理成去除隐私的结构模板。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-192",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "从一项重复工作中提取一个可复用的开头。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-193",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "给一段常用说明补上需要替换的变量位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-194",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "保存一个自己用过且有效的提问方式。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-195",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "为一个常用模板写清什么时候不适合用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-196",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "把一次解决问题的关键步骤记成三行。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-197",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "给一份可复用材料补上来源与适用限制。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-198",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "下次重复任务前，先找一次过去做过的相似版本。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-199",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "试用一条已有工作经验后，补一句本次是否仍然有用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "WORK-200",
+      "category": "工作",
+      "topic": "可复用方法",
+      "action": "把一项需要从头解释的知识整理成一个可转发的简短说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-001",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "开始学习前，写下自己想解决的一个真实问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-002",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "把“了解一下”改成一句学完后希望能做什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-003",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "为一个学习主题写下它最近可能用到的场景。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-004",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "选一项想学的内容，说明为什么现在值得学。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-005",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "给本次学习定一个小到能检查的结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-006",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "把当前最想学的三个问题排个先后，只先处理第一个。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-007",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "开始之前，区分你需要的是知道、理解还是能独立使用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-008",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "为一项学习目标写下什么情况算已经够用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-009",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "把一个暂时没有用途的学习主题放到稍后清单。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-010",
+      "category": "学习",
+      "topic": "明确学习目的",
+      "action": "学完后对照最初问题，写一句现在能回答到哪里。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-011",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "把一个大主题拆出今天能处理的一个问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-012",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "从一份复杂材料里选一节，作为本次唯一范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-013",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "给一个学习计划写出最先需要理解的基础概念。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-014",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "把一项复杂技能拆成几个动作，选最卡的一步练。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-015",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "把“系统学习”改成一个本周可以完成的小成果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-016",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "为本次学习划出暂时不追究的边界。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-017",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "遇到内容太多时，先挑与你问题最直接相关的一部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-018",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "把一个含有多个问题的疑问拆开，逐个处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-019",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "为一项长期学习写出第一个能拿到反馈的节点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-020",
+      "category": "学习",
+      "topic": "拆小学习范围",
+      "action": "结束一个小范围后，先检查收获再决定是否扩展。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-021",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "打开新材料前，先看它面向什么基础的读者。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-022",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "为当前问题选一份主材料，其他资料先作为补充。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-023",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "比较两份资料的目录，选更贴近当前目标的一份。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-024",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "检查一份材料是否同时提供解释和具体例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-025",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "遇到过难的资料时，先寻找它默认读者已知的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-026",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "选资料前看一段正文，判断它是否能帮助你解决问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-027",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "给一份决定保留的资料记下选择它的理由。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-028",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "学习变化较快的知识时，检查资料的更新时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-029",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "挑一份收藏已久的资料，判断它现在是否仍有用途。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-030",
+      "category": "学习",
+      "topic": "选择学习材料",
+      "action": "结束一次资料搜索前，明确接下来实际要读哪一份。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-031",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "读一份长材料前，先浏览标题与小标题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-032",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "看完目录后，猜一猜作者会怎样组织答案。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-033",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "在正式阅读前，写一个希望材料回答的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-034",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "先看一张关键图表，记下它让你产生的疑问。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-035",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "预览后标出值得细读的一段。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-036",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "先读结论，再带着“依据是什么”回看正文。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-037",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "开始新内容前，回想自己已经知道的相关知识。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-038",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "把预览时遇到的陌生词集中记下，先不逐个跳出去查。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-039",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "为一份材料区分需要细读、略读和暂时跳过的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-040",
+      "category": "学习",
+      "topic": "学习前预览",
+      "action": "正式学习前，用一句话概括这份材料主要在讨论什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-041",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "学习开始前，只打开这次需要用的材料。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-042",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "把一个会打断自己的非必要提醒暂时关闭。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-043",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "为接下来的一段学习选一个明确的停止位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-044",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "想到无关事情时，先写到旁边再回到当前内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-045",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "发现自己反复读同一句时，停下来写出没理解的词。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-046",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "切换资料之前，先说清楚为什么需要切换。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-047",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "给一次学习留一个短时间盒，到点检查是否还在处理原问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-048",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "休息前记下刚才读到哪里和下一步是什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-049",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "回来继续时，先复述上次已经理解的一点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-050",
+      "category": "学习",
+      "topic": "保持注意力",
+      "action": "记录一次分心的具体触发因素，不给自己贴标签。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-051",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "遇到新概念时，用自己的话写一句定义。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-052",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "给一个抽象概念找一个熟悉的生活或工作例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-053",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "为一个概念找一个看似相近但不属于它的情况。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-054",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "检查定义里是否有被自己忽略的限制词。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-055",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "把两个容易混淆的概念分别写成一句话。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-056",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "问一个新概念“它解决了什么问题”，写下答案。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-057",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "把一个难懂的过程画成几个相连的步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-058",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "为一个结论补写“在什么条件下成立”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-059",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "解释概念时，试着不用它原来的术语。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-060",
+      "category": "学习",
+      "topic": "理解概念",
+      "action": "学完一个概念后，写出自己仍然不能解释的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-061",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "读到一个观点时，标出它依赖的主要依据。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-062",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "把材料中的事实描述与作者判断分开一处。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-063",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "为一个结论写出从依据到结论中间省略的步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-064",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "遇到“因此”时，检查前面的内容是否足以支持后面的结论。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-065",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "为一个说法找出它默认成立的前提。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-066",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "看到一个例子时，判断它是在说明还是在证明观点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-067",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "给一项结论想一个可能不成立的情境。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-068",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "把一段复杂论述整理成主张、依据和限制三行。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-069",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "比较作者说了什么与自己推断了什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-070",
+      "category": "学习",
+      "topic": "理解论证",
+      "action": "读完一段推理后，尝试提出一个需要补充证据的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-071",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "把“我没懂”改成一个具体可回答的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-072",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "提问前写下自己目前的理解，方便发现差距。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-073",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "为一个疑问补上让你困惑的具体例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-074",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "把一个过大的问题缩到一个概念或步骤。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-075",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "问“为什么这样做”之前，先确认“具体做了什么”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-076",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "为一个答案追问一次它的适用边界。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-077",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "遇到不一致解释时，先问双方讨论的条件是否相同。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-078",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "向别人请教前，列出自己已经尝试查过的地方。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-079",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "得到解答后，用自己的话复述一遍供核对。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-080",
+      "category": "学习",
+      "topic": "提出好问题",
+      "action": "把解决不了的问题保留为待探索项，写明缺哪类信息。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-081",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "读完一小段后，移开视线说出它的核心意思。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-082",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "合上资料，写出刚才最重要的三个要点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-083",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "不看笔记，尝试复述一个方法的操作顺序。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-084",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "在重新阅读前，先写出自己还记得什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-085",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "看完一个例子后，遮住原文解释它为什么这样处理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-086",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "用一张空白纸画出当前主题的大致结构。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-087",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "回忆一个结论时，同时说出它的适用条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-088",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "对照资料，用不同标记补上回忆时漏掉的内容。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-089",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "从昨天的学习中挑一点，今天先凭记忆解释。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-090",
+      "category": "学习",
+      "topic": "主动回忆",
+      "action": "将一个笔记标题改成问题，合上正文尝试回答。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-091",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "把一段原文摘录改写成自己的理解。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-092",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "在一页笔记开头写明它回答什么问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-093",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "把引用内容与自己的想法分开放置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-094",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "为一个重要结论旁边补一个例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-095",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "把一段过长笔记压缩成三行摘要。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-096",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "给一条笔记补上来源，方便以后回查。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-097",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "将一处尚未理解的内容明确标记为疑问。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-098",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "为一条笔记写一个以后能搜到的具体标题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-099",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "把重复记录的两条笔记合成一个更清楚的版本。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-100",
+      "category": "学习",
+      "topic": "笔记表达",
+      "action": "在笔记末尾加一句“下次在哪里可能用到”。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-101",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "把新知识与一个已经熟悉的概念连起来。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-102",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "比较新方法与自己原来做法的共同点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-103",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "找出两个不同材料实际在回答的同一个问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-104",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "给一条笔记加一个指向相关旧笔记的链接。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-105",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "把相似概念放在一起，写出最关键的区别。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-106",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "为一个主题画出不超过五个节点的关系图。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-107",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "想一个跨领域的类比，并注明类比不成立的地方。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-108",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "把刚学的知识放进自己已有的工作流程，标出所在环节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-109",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "回看一条旧观点，记录新知识是否改变了理解。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-110",
+      "category": "学习",
+      "topic": "建立知识联系",
+      "action": "把两种看似矛盾的方法按不同适用条件重新整理。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-111",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "为一个刚学到的重要内容安排一次回看提醒。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-112",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "重新打开旧笔记前，先说出它可能包含什么。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-113",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "从上周学过的内容里挑一个实际解释给自己听。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-114",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "复习时先找记不清的部分，不从头全部重读。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-115",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "把一项已能熟练解释的内容移出近期重点复习范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-116",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "为一个总混淆的知识点做一页简短对照。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-117",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "间隔几天后，用一个不同例子重讲同一方法。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-118",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "回看一次之前的疑问，检查现在是否能回答。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-119",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "在日常遇到相关场景时，主动回想对应知识。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-120",
+      "category": "学习",
+      "topic": "复习与再接触",
+      "action": "结束复习后，只写下下一次最需要再看的一个点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-121",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "把想掌握的方法缩成一次低风险的小练习。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-122",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "练习前选定一个最想改善的细节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-123",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "为一个练习写清自己会怎样检查结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-124",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "先完成一个最小版本，再决定是否增加难度。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-125",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "模仿一个范例的结构，换成自己的内容做一次。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-126",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "保留第一次练习的结果，供下次对照。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-127",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "在熟悉做法中只改一个条件，观察需要怎样调整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-128",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "练习时遇到卡点，先标记具体发生在哪一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-129",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "完成练习后，检查自己是否真正做了目标动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-130",
+      "category": "学习",
+      "topic": "设计小练习",
+      "action": "把一次失败的尝试缩小范围后再试。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-131",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "给愿意协助的人展示一小段成果，提出一个具体反馈问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-132",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "请求反馈前，说明这次练习想达到什么效果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-133",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "把“还不错”追问成哪一处最有效。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-134",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "收到模糊批评时，询问一个具体需要改变的位置。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-135",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "把反馈分成可以立即调整和需要进一步确认两类。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-136",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "收到多条意见后，只选最影响目标的一条先改。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-137",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "对照修改前后的结果，判断反馈是否解决了问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-138",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "为一条暂不采纳的意见写下理由和适用条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-139",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "记录一个自己没有发现、由反馈指出的盲点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-140",
+      "category": "学习",
+      "topic": "获取与使用反馈",
+      "action": "完成修改后，再检查原先收到反馈的那一处。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-141",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "为同一个小任务列出两种可行的处理方法。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-142",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "比较方法前，先写清自己最在意的一个标准。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-143",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "用相似条件分别尝试两种方法，保留各自结果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-144",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "比较两种做法时，记下实际投入而不只看最终效果。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-145",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "选一个熟悉方法，写出它不擅长处理的情况。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-146",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "为一种新方法记录开始使用所需的前置条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-147",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "检查一次方法比较是否混入了不同任务难度。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-148",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "给一个看起来有效的方法找出可能的其他影响因素。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-149",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "把“这个方法更好”改写成具体在哪种情况下更合适。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-150",
+      "category": "学习",
+      "topic": "比较方法",
+      "action": "比较结束后，只保留一条下一次可采用的调整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-151",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "为刚学的内容找一个本周能遇到的真实场景。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-152",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "用新方法处理当前工作中一个很小的部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-153",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "把材料里的示例换成自己的实际问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-154",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "应用前写下真实场景与范例有什么不同。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-155",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "尝试一个新方法时，先保留能回到原做法的余地。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-156",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "用过一次后，写明哪一步最需要调整。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-157",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "把一个概念转成可以在实际任务中问自己的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-158",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "记录一次知识派上用场的具体时刻。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-159",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "应用受阻时，区分是理解不足还是现场条件不适合。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-160",
+      "category": "学习",
+      "topic": "迁移到实际场景",
+      "action": "为一个已经试用的方法补写适用范围。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-161",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "把本次学到的一点整理成一分钟能讲清的说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-162",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "给一段讲解先写一句听者为什么需要知道。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-163",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "为一个抽象方法准备一个贴近听者的例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-164",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "大声讲一遍自己的理解，标出说不顺的地方。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-165",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "把一段解释改成结论、例子和限制三部分。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-166",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "请愿意帮忙的人复述你的说明，观察是否有偏差。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-167",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "用一张简单图解释两个概念之间的关系。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-168",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "把别人对你讲解的一个追问补进笔记。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-169",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "为一个知识点制作一份自己下次能直接查阅的短说明。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-170",
+      "category": "学习",
+      "topic": "输出与讲解",
+      "action": "讲解结束后，记录一个暴露出理解不完整的问题。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-171",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "看到一个重要说法时，找到它最初的出处。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-172",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "检查一份材料有没有明确区分事实与观点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-173",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "对一个吸引人的结论，查找它省略的限制条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-174",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "比较两份独立来源是否真的支持同一结论。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-175",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "遇到数字时，核对它对应的时间、人群和口径。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-176",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "把无法核实的信息标成待确认，不写成自己的确定结论。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-177",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "判断一条建议前，查看它来自经验、研究还是推测。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-178",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "遇到观点冲突时，分别记录双方依据。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-179",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "为一个自己赞同的观点寻找一条有力的反对意见。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-180",
+      "category": "学习",
+      "topic": "查证与判断",
+      "action": "改变看法时，写下真正促成改变的那条证据。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-181",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "结束学习后，写下今天真正弄懂的一点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-182",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "记录本次学习最费时间的环节。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-183",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "把“效率不高”改成一个具体发生的阻碍。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-184",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "回看学习目标，标出计划与实际的差别。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-185",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "写下一种这次试过但暂时不适合自己的学法。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-186",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "为下一次学习只保留一个要调整的动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-187",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "检查一条最近学到的知识是否已经实际使用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-188",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "记录一次“看懂了但做不出来”卡在哪一步。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-189",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "为一个有效学法补上支持判断的实际例子。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-190",
+      "category": "学习",
+      "topic": "学习复盘",
+      "action": "把本次仍没解决的问题写成下次的起点。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-191",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "为忙碌的一天准备一个可以完成的最小学习动作。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-192",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "选择一个固定的日常节点，试着接上一小段学习。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-193",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "检查当前同时进行的学习主题，暂缓一个不急的。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-194",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "把“必须一次学完”改成下一次可以接续的进度记录。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-195",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "发现疲劳时，先保存当前位置，再决定是否停止。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-196",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "为一项长期学习写出可以暂停或结束的条件。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-197",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "回看最近收集的资料，挑一份真正开始使用。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-198",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "减少一次单纯收藏，把其中一条内容转成实际尝试。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-199",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "给自己保留一段不新增材料、只消化已有内容的时间。",
+      "editorial_status": "candidate"
+    },
+    {
+      "id": "LEARN-200",
+      "category": "学习",
+      "topic": "持续学习与取舍",
+      "action": "从最近的学习中选一个值得继续的方法，加入自己的经验记录。",
+      "editorial_status": "candidate"
+    }
+  ]
+}

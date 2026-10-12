@@ -1,0 +1,11 @@
+{
+  "name": "Daily Better",
+  "name_zh": "日进",
+  "slug": "daily-better",
+  "stage": "development-mvp",
+  "platform": "macOS",
+  "prd_version": "0.4",
+  "app_version": "0.1.15",
+  "minimum_macos": "14.0",
+  "technology": "SwiftUI + SwiftData"
+}
